@@ -1,0 +1,5 @@
+
+React Have core labriry called React and some/many others like React-dom & React-native ... 
+
+> npx create-react-app Project1   -> ( for initilizin react app )
+> npm vite@projectname
